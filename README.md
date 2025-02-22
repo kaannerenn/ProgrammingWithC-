@@ -10,7 +10,11 @@ Bugünkü komutlar:
 #Yeni bir solution açmak için 
 dotnet new sln
 
+#Git reposuna kodları göndermek için
+git push
 
+#Git reposundan kodları çekmek için
+git pull
 
 
 	
