@@ -10,6 +10,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Çözüm Öğeleri", "Çöz
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_01", "Chapter_01\Chapter_01.csproj", "{082CA718-8D72-4DF3-A2BD-A4B63D04E950}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_02", "Chapter_02\Chapter_02.csproj", "{0C8A59F8-7608-4674-8AD9-53C37D7D3E5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azon.WeatherLib", "Azon.WeatherLib\Azon.WeatherLib.csproj", "{B0605A2E-CC7A-44D0-8106-6AA93D7A14DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +24,14 @@ Global
 		{082CA718-8D72-4DF3-A2BD-A4B63D04E950}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{082CA718-8D72-4DF3-A2BD-A4B63D04E950}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{082CA718-8D72-4DF3-A2BD-A4B63D04E950}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C8A59F8-7608-4674-8AD9-53C37D7D3E5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C8A59F8-7608-4674-8AD9-53C37D7D3E5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C8A59F8-7608-4674-8AD9-53C37D7D3E5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C8A59F8-7608-4674-8AD9-53C37D7D3E5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0605A2E-CC7A-44D0-8106-6AA93D7A14DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0605A2E-CC7A-44D0-8106-6AA93D7A14DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0605A2E-CC7A-44D0-8106-6AA93D7A14DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0605A2E-CC7A-44D0-8106-6AA93D7A14DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

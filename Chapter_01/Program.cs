@@ -25,8 +25,8 @@ internal class Program
     private static void Main(string[] args)
     {
         Console.Beep();
-        Console.WriteLine("Hello, World!");
-
+        Console.WriteLine("Hello, World!"); /*WriteLine ve Beep örneği , Console sınıfının statik metotlarıdır.
+                                             Nesne örneğine ihtiyaç duymazlar*/
         string fullName = "Kaan Eren Yavuz";
         /* var keyword ile tanımlanan değişkenler, eşitliğin sağ tarafına bakıp uygun veri türünü alırlar. Mesela alttaki örnek
         otomatik olarak string */
