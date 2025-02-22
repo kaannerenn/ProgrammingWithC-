@@ -3,15 +3,14 @@ C# çalıştığım alan.
 
 ## Gün 1
 
-Bugünkü komutlar.
+Bugünkü komutlar:
 
-'''shell
 #Github reposundan proje klonlamak için git clone https://github.com/kaannerenn/ProgrammingWithC-.git
 
 #Yeni bir solution açmak için 
 dotnet new sln
 
-'''
+
 
 
 	
