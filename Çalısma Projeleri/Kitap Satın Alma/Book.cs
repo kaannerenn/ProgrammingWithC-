@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Library
+﻿namespace Çalısma_Projeleri
 {
     public class Book
     {
@@ -16,6 +10,7 @@ namespace Library
         public decimal Cost { get; set; }
         public string Description { get; set; }
 
-        
+
     }
 }
+
