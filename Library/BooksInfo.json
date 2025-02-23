@@ -1,0 +1,137 @@
+﻿[
+    {
+        "Title": "Sapiens",
+        "Author": "Yuval Noah Harari",
+        "PublicationYear": 2011,
+        "Type": "History",
+        "PageCount": 443,
+        "Cost": 19.99,
+        "Description": "A brief history of humankind, exploring how Homo sapiens evolved."
+    },
+    {
+        "Title": "1984",
+        "Author": "George Orwell",
+        "PublicationYear": 1949,
+        "Type": "Dystopian",
+        "PageCount": 328,
+        "Cost": 12.99,
+        "Description": "A dystopian novel about a totalitarian regime under Big Brother."
+    },
+    {
+        "Title": "The Catcher in the Rye",
+        "Author": "J.D. Salinger",
+        "PublicationYear": 1951,
+        "Type": "Fiction",
+        "PageCount": 277,
+        "Cost": 14.50,
+        "Description": "A coming-of-age novel following Holden Caulfield's experiences in New York."
+    },
+    {
+        "Title": "To Kill a Mockingbird",
+        "Author": "Harper Lee",
+        "PublicationYear": 1960,
+        "Type": "Fiction",
+        "PageCount": 336,
+        "Cost": 18.00,
+        "Description": "A novel about racial injustice in the Deep South."
+    },
+    {
+        "Title": "Brave New World",
+        "Author": "Aldous Huxley",
+        "PublicationYear": 1932,
+        "Type": "Dystopian",
+        "PageCount": 311,
+        "Cost": 16.75,
+        "Description": "A futuristic novel about a genetically engineered society."
+    },
+    {
+        "Title": "The Hobbit",
+        "Author": "J.R.R. Tolkien",
+        "PublicationYear": 1937,
+        "Type": "Fantasy",
+        "PageCount": 310,
+        "Cost": 22.99,
+        "Description": "The adventures of Bilbo Baggins in Middle-earth."
+    },
+    {
+        "Title": "Fahrenheit 451",
+        "Author": "Ray Bradbury",
+        "PublicationYear": 1953,
+        "Type": "Dystopian",
+        "PageCount": 249,
+        "Cost": 13.50,
+        "Description": "A novel about a society where books are banned and burned."
+    },
+    {
+        "Title": "The Great Gatsby",
+        "Author": "F. Scott Fitzgerald",
+        "PublicationYear": 1925,
+        "Type": "Classic",
+        "PageCount": 180,
+        "Cost": 10.99,
+        "Description": "A story about wealth and the American Dream in the 1920s."
+    },
+    {
+        "Title": "The Alchemist",
+        "Author": "Paulo Coelho",
+        "PublicationYear": 1988,
+        "Type": "Philosophical Fiction",
+        "PageCount": 208,
+        "Cost": 15.00,
+        "Description": "A journey of self-discovery and destiny."
+    },
+    {
+        "Title": "Crime and Punishment",
+        "Author": "Fyodor Dostoevsky",
+        "PublicationYear": 1866,
+        "Type": "Philosophical Fiction",
+        "PageCount": 671,
+        "Cost": 24.99,
+        "Description": "A psychological drama exploring guilt and redemption."
+    },
+    {
+        "Title": "Moby-Dick",
+        "Author": "Herman Melville",
+        "PublicationYear": 1851,
+        "Type": "Adventure",
+        "PageCount": 635,
+        "Cost": 20.00,
+        "Description": "The quest of Captain Ahab for revenge against the white whale."
+    },
+    {
+        "Title": "Pride and Prejudice",
+        "Author": "Jane Austen",
+        "PublicationYear": 1813,
+        "Type": "Romance",
+        "PageCount": 432,
+        "Cost": 14.99,
+        "Description": "A romantic novel about manners, marriage, and social class."
+    },
+    {
+        "Title": "Dracula",
+        "Author": "Bram Stoker",
+        "PublicationYear": 1897,
+        "Type": "Gothic Horror",
+        "PageCount": 418,
+        "Cost": 17.99,
+        "Description": "The classic tale of Count Dracula and his attempt to move to England."
+    },
+    {
+        "Title": "The Lord of the Rings",
+        "Author": "J.R.R. Tolkien",
+        "PublicationYear": 1954,
+        "Type": "Fantasy",
+        "PageCount": 1178,
+        "Cost": 35.00,
+        "Description": "An epic high-fantasy novel following the quest to destroy the One Ring."
+    },
+    {
+        "Title": "The Hitchhiker's Guide to the Galaxy",
+        "Author": "Douglas Adams",
+        "PublicationYear": 1979,
+        "Type": "Science Fiction",
+        "PageCount": 224,
+        "Cost": 12.50,
+        "Description": "A humorous sci-fi novel about space travel and absurdity."
+    }
+]
